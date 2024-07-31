@@ -1,30 +1,22 @@
 import {
-  
   backend,
-  
   web,
   javascript,
   nextjs,
-  
   typescript,
   html,
   css,
   reactjs,
   redux,
   tailwind,
-  
   mongodb,
   git,
   figma,
   docker,
-  
   esi,
-  
   carrent,
-  
   prompt,
   leon,
-  
   threejs,
 } from "../assets";
 
@@ -48,12 +40,11 @@ const services = [
     title: "Web Developer",
     icon: web,
   },
-  
+
   {
     title: "Backend Developer",
     icon: backend,
   },
-  
 ];
 
 const technologies = [
@@ -85,12 +76,12 @@ const technologies = [
     name: "Redux Toolkit",
     icon: redux,
   },
-  
+
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  
+
   {
     name: "MongoDB",
     icon: mongodb,

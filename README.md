@@ -1,20 +1,10 @@
-
-
 ## 📋 <a name="table">Table of Contents</a>
 
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-
-
 I
-
-
-
-
-
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -44,7 +34,7 @@ I
 
 👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -92,14 +82,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-
-  
-
-
-  
-
-
-
-      
-
