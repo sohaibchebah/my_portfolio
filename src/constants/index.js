@@ -137,27 +137,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Sohaib proved me wrong.",
+      "Sohaib is a talented developer who consistently delivers high-quality, polished results.",
     name: "Yacine Djaaraoui",
     designation: "Student",
     company: "esi sba",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://i.ibb.co/YNVZNfx/yacine.jpg",
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Sohaib does.",
-    name: "Djawad Boufalghed",
+    name: "Mohamed zaarir",
     designation: "Student",
     company: "esi sba",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://i.ibb.co/Krx4Kj3/moh.jpg",
   },
   {
     testimonial:
-      "After Sohaib optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "Sohaib brings creativity and precision to every project. Their work is always outstanding.",
     name: "Walid Benchikh",
     designation: "Student",
     company: "esi sba",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://i.ibb.co/jwd8DCy/walidben.jpg",
   },
 ];
 
